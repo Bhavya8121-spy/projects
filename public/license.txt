@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porsche Mission R | www.vecarz.com
+* source:	https://sketchfab.com/3d-models/porsche-mission-r-wwwvecarzcom-86c216df075a489f8dee85e3d891793c
+* author:	Nic (https://sketchfab.com/heynic)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porsche Mission R | www.vecarz.com" (https://sketchfab.com/3d-models/porsche-mission-r-wwwvecarzcom-86c216df075a489f8dee85e3d891793c) by Nic (https://sketchfab.com/heynic) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
